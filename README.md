@@ -4,7 +4,7 @@ This Repository is created for my personal website, which I will try to keep upd
 
 This template is borrowed through a Jekyll version of the "Merlot" theme by [HTML5 UP](https://html5up.net/).  
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pages-themes/merlot/blob/master/thumbnail.png)
 
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
